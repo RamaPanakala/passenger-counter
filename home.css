@@ -1,0 +1,87 @@
+
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    color: hsl(0, 0%, 20%); 
+    margin-bottom: 10px; 
+}
+
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    color: #555; 
+    margin-bottom: 10px; 
+
+}
+
+
+button {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    max-width: 555%;
+    width: 150px;
+    width: 210px;
+    color: #ffffff; 
+    background-color: #007bff; 
+    border: none;
+    padding: 10px 20px; 
+    margin-bottom: 20px; 
+    cursor: pointer; 
+}
+
+button:hover {
+    background-color: #1d36b2; 
+padding: 10px 20 px;
+}
+
+p {
+    text-align:middle;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    width: 150px;
+    color: rgba(17, 27, 213, 0.903);
+    margin-bottom: 10px; 
+}
+
+
+#save {
+    background-color: #28a745; 
+    padding: 155px 200 px;
+    font-size: 20px;
+    max-width: 35%;
+    width: 210px;
+}
+#reset {
+    background-color: #156de8; 
+    padding: 1555px 2000 px;
+    text-align:center;
+    font-size: px;
+    max-width: 45%;
+    width: 210px;
+}
+
+#save:hover {
+    background-color: #218838; 
+    padding: 155px 200 px;
+    font-size: 25px;
+    max-width: 45%;
+    width: 210px;
+}
+.container{
+    text-align: center;
+    background: rgba(245, 245, 245, 0.799);
+    max-width: 45%;
+    padding: 15px 20 px;
+    background-image:url("https://img.freepik.com/premium-vector/abstract-blue-watercolor-paint-brush-background_548264-595.jpg?size=626&ext=jpg&ga=GA1.1.735520172.1711238400&semt=ais") ;
+    margin: auto;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+body {
+    background-image: url("https://w0.peakpx.com/wallpaper/355/430/HD-wallpaper-lines-strokes-abstract-blue-cool-elegant-look-lovely-royal.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
